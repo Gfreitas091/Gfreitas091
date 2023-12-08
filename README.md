@@ -4,8 +4,8 @@ Olá, Eu sou o Gustavo Freitas👋
 
 <div>
   <a href="https://https://github.com/Gfreitas091">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gfreitas091&show_icons=true&theme=holi" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfreitas091&layout=compact&theme=holi" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gfreitas091&show_icons=true&theme=dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfreitas091&layout=compact&theme=dark" />
 </div>
     
 ##
