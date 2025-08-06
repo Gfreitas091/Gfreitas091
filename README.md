@@ -9,6 +9,10 @@
 
 ###
 
+<p align="left">Me chamo Gustavo Freitas da Silva, tenho 22 anos e sou apaixonado por tecnologia e desenvolvimento. Atualmente estou concluindo minha primeira graduação em Análise e Desenvolvimento de Sistemas e iniciei minha segunda formação em Tecnologia em Banco de Dados. Tenho grande interesse por programação, onde me sinto motivado a aprender constantemente, encarar novos desafios e evoluir como desenvolvedor. Busco sempre aprimorar meus conhecimentos e contribuir com soluções criativas e eficientes na área de tecnologia.</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
