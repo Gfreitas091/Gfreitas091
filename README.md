@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">🤖 Linguagens e Tecnologias</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -23,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+###
+
+<h3 align="left">📊 Estatísticas</h3>
 
 ###
 
